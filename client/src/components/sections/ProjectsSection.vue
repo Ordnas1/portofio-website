@@ -1,7 +1,7 @@
 <template>
-  <div class="w-screen bg-stone-300 py-8 px-8 text-stone-800 text-justify">
+  <div class="w-screen bg-stone-300 py-8 px-8 text-stone-800 text-justify section-index lg:pt-4">
     <div class="project-container container mx-auto">
-      <h2 class="text-center text-4xl font-semibold font-inter">Projects</h2>
+      <h2 class="section-title">Projects</h2>
       <p>
         Here's a list of some of my related projects. Some where made as a
         freelance developer, and some as an individual contributor on a company.

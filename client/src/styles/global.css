@@ -8,3 +8,11 @@
     }
 }
 
+@layer utilities {
+    .section-index {
+        @apply lg:flex lg:flex-col lg:justify-center lg:py-32;
+    }
+    .section-title {
+        @apply text-center text-4xl font-semibold font-inter;
+    }
+}

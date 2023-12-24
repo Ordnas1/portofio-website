@@ -1,5 +1,5 @@
 <template>
-  <div class="w-screen bg-stone-300 py-8 px-8 text-stone-800 text-justify">
+  <div class="w-screen bg-stone-300 py-8 px-8 text-stone-800 text-justify section-index">
     <div class="container mx-auto">
       <h2 class="text-center text-4xl font-semibold font-inter mb-10">
         About me
